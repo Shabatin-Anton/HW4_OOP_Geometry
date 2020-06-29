@@ -1,8 +1,8 @@
-package main.javacom.homework4.shape.abstact;
+package main.java.com.homework4.shape.abstact;
 
-import main.javacom.homework4.interfaces.AreaMeasurable;
-import main.javacom.homework4.interfaces.VolumeMeasurable;
-import main.javacom.homework4.vertex.Vertex;
+import main.java.com.homework4.interfaces.AreaMeasurable;
+import main.java.com.homework4.interfaces.VolumeMeasurable;
+import main.java.com.homework4.vertex.Vertex;
 
 import java.util.List;
 

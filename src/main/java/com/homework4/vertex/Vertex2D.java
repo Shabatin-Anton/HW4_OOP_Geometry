@@ -1,4 +1,4 @@
-package main.javacom.homework4.vertex;
+package main.java.com.homework4.vertex;
 
 public class Vertex2D implements Vertex {
 

@@ -1,9 +1,9 @@
-package main.javacom.homework4;
+package main.java.com.homework4;
 
-import main.javacom.homework4.shape.*;
-import main.javacom.homework4.shape.abstact.Shape;
-import main.javacom.homework4.vertex.Vertex2D;
-import main.javacom.homework4.vertex.Vertex3D;
+import main.java.com.homework4.shape.*;
+import main.java.com.homework4.shape.abstact.Shape;
+import main.java.com.homework4.vertex.Vertex2D;
+import main.java.com.homework4.vertex.Vertex3D;
 
 public class Main {
     public static void main(String[] args) {

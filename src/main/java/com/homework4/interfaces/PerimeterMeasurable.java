@@ -1,4 +1,4 @@
-package main.javacom.homework4.interfaces;
+package main.java.com.homework4.interfaces;
 
 public interface PerimeterMeasurable {
 

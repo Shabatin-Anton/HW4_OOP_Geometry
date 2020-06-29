@@ -1,7 +1,7 @@
-package main.javacom.homework4.shape;
+package main.java.com.homework4.shape;
 
-import main.javacom.homework4.shape.abstact.SpaceShape;
-import main.javacom.homework4.vertex.Vertex3D;
+import main.java.com.homework4.shape.abstact.SpaceShape;
+import main.java.com.homework4.vertex.Vertex3D;
 
 import java.util.List;
 
