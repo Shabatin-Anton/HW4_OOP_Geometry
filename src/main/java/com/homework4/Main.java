@@ -20,9 +20,9 @@ public class Main {
         Sphere sphere = new Sphere(new Vertex3D(-10, -11, -12), 3);
 
         Shape[] firstTaskOut = {triangle, rectangle, circle, squarePyramid, cuboid, sphere};
-
-        for (int i = 0; i < firstTaskOut.length; i++) {
-            System.out.println(firstTaskOut[i]);
+        
+        for (Shape shape: firstTaskOut) {
+            System.out.println(shape.toString());
         }
     }
 }
